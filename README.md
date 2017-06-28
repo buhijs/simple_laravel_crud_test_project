@@ -27,6 +27,7 @@ DB_PASSWORD= <i>MYSQL USER PASSWORD</i></b>
 </pre>
 4. Use `php artisan migrate` command to import database test table for tbis project
 5. You can start project two ways through commands
+
 | artisan | php |
 |--------|--------|
 |     php artisan serve   |    php -S localhost:8080 -t public    |
